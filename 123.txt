@@ -1,8 +1,10 @@
-━━━━━━━━━━━━━━━━━━━━
-NEWS 20th Anniversary POP UP STORE“NEWSpace”オープン！
-━━━━━━━━━━━━━━━━━━━━
-
-NEWS結成・デビュー20周年を記念し、ラフォーレ原宿にPOP UP STORE “NEWSpace”がオープンいたします！
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>NEWS 20th Anniversary POP UP STORE“NEWSpace”オープン！</title>
+  </head>
+ <body>
+    <h1>NEWS結成・デビュー20周年を記念し、ラフォーレ原宿にPOP UP STORE “NEWSpace”がオープンいたします！
 20周年を迎え、ますます磨きがかかるメンバーの個性がぎゅっと詰まった個人ブースと、3人が集まったときのポジティブパワーを存分に感じられる空間をたっぷりお楽しみいただけます。
 ぜひ、“今”のNEWSを体感できる期間限定の“NEWSpace”へお出かけください。
 
@@ -10,4 +12,9 @@ NEWS結成・デビュー20周年を記念し、ラフォーレ原宿にPOP UP S
 
 ◆公式サイト『NEWS 20th Anniversary POP UP STORE NEWSpace』
 ※7/8(土)AM10:00オープン
-https://newspace-20th.jp
+https://newspace-20th.jp</h1>
+  </body>
+</html>
+
+
+ 
